@@ -41,8 +41,10 @@ The term was coined by Eric Evans in his book of the same title.
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Very good starter book before you read [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) or [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215).
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration.
 - [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) - Domain-Driven Rails describes 11 techniques (from Bounded Contexts to Event Sourcing) that you can use separately and together in new and old Rails apps to achieve better architecture.
+- [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional) - Tackle Software Complexity with Domain-Driven Design and F#.
 - [Domain Specific Languages](http://martinfowler.com/books/dsl.html) - Tangentially connected to DDD, describes the importance of the Ubiquitous Language and working together with domain experts, along with lots of technical details.
 - [Event Sourcing and CQRS with .NET Core and SQL Server](https://buildplease.com/products/fpc-v2/) - A walkthrough of using Domain-Driven Design with Event Sourcing and CQRS using ASP.NET Core and SQL Server in production.
+- [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.com/Hands-Domain-Driven-Design-NET-dp-1788834097/dp/1788834097) - Tackling complexity in the heart of software by putting DDD principles into practice by Alexey Zimarev.
 - [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) - Also a canonical book presenting a top-down approach to understanding Domain-Driven Design.  Also known as the "Red Book."
 - [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - The deepest tutorial and explanation about EventStorming, straight from the inventor.
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - A software architect’s digest of core practices, pragmatically applied.
@@ -57,6 +59,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - Provides end-to-end guidance on building monolithic web applications using DDD, ASP.NET Core, and Azure. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - Exploring CQRS and Event Sourcing.
+- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years) - To celebrate the anniversary, we've asked prominent authors in the software design world to contribute old and new essays. With contributions by Martin Fowler, James Coplien, Rebecca Wirfs-Brock, Mel Conway, and many more.
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - Domain Driven Design Quickly is a short, quick-readable summary and introduction to the fundamentals of DDD.
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -  In this three-part series, Vaughn Vernon walks through some common design pitfalls, discusses the pros and cons of various aggregate modeling choices, and provides rules of thumb to guide modeling of aggregates.
@@ -67,6 +70,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Training Courses
 
+- [DDD Workshops across Europe](https://training.dddeurope.com/) - Public Workshops by Eric Evans, Alberto Brandolini, Mathias Verraes, Rebecca Wirfs-Brock, and many more.
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - These videos include the entirety of Greg Young's DDD, CQRS, and Event Sourcing class.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon's online training course.
@@ -84,7 +88,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Video Collections
 
-- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe.
+- [DDD Europe](https://dddeurope.com/videos) - Recordings of talks given at DDD Europe.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North, etc.
 - [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
 - [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young.
@@ -144,6 +148,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Arkency](https://blog.arkency.com/) - Various DDD, CQRS, Event Sourcing related articles from Ruby experts.
 - [Svaťa Šimara](http://svatasimara.cz/) - DDD series - language, domain, modeling, infrastructure, implementation in PHP
 - [Martin Havlišta](https://xhafan.com/blog/) - DDD, CQRS, TDD blog posts with code samples in C# .NET  
+- [Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design) - DDD series introduction and talk about how to implement DDD with TypeScript
 
 ## Sample Projects
 
@@ -153,6 +158,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
+- [EISK](https://github.com/eisk) - .NET CLI and VS Templates with simple use cases to build scalable applications on top of .net core with architectural best practices (DDD, onion architecture etc).
 - [EmailMaker](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd](https://github.com/xhafan/coreddd) usage
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing
@@ -178,16 +184,18 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
+- [DDD By Examples - Library](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
-- [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
+- [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin. 
 
 ### PHP
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
+- [Eric Evans DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 - [Shop Cart in PHP](https://github.com/simara-svatopluk/cart) - Sample project that demonstrates how simple shop cart can look like. Domain objects,Doctrine integration.,TDD,layers,unit testing
 
 
@@ -256,12 +264,15 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Conferences
 
-- [Domain-Driven Design Europe - Netherlands](http://www.dddeurope.com)
+- [Domain-Driven Design Europe](https://dddeurope.com) - The Leading DDD conference
+- [EventSourcing](https://dddeurope.com/2020/#eventsourcing) - A new event for the CQRS/EventSourcing community
+- [DDD Foundations](https://dddeurope.com/2020/#foundations) - A curated conference for DDD newcomers
 - [Explore DDD - USA](http://exploreddd.com/)
 - [Kandddinsky - Germany](http://kandddinsky.com/)
 
 ## User Groups
 
+- [Collective CFP](https://sessionize.com/ddd-meetups) - Submit your talks to all the DDD user groups at once.
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)
